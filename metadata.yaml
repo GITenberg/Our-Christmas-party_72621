@@ -1,11 +1,16 @@
 _repo: Our-Christmas-party_72621
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72621-h/images/cover.jpg
 creator:
   author:
     agent_name: Merry, Old
     gutenberg_agent_id: '56748'
     url: http://www.gutenberg.org/2009/agents/56748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72621#Our-Christmas-party
 gutenberg_issued: '2024-01-04'
 gutenberg_type: Text
 identifiers:
